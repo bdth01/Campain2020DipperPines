@@ -1,0 +1,103 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#VoteToday {
+  text-align: left;
+  font-size: 100px;
+  float: left;
+}
+
+p {
+  text-align: center;
+  margin: 0px;
+}
+
+#VoteDipper {
+  text-align: left;
+  font-size: 50px;
+  position: absolute;
+  top: 400px;
+  background-color: #FF0000;
+  color: white;
+  padding: 0px 20px 0px 100px;
+}
+
+#Fines {
+  text-align: center;
+  top: 500px;
+  position: absolute;
+  left: 700px;
+  font-size: 50px;
+  background-color: blue;
+  color: white;
+}
+
+#FinesBox{
+  width: 700px;
+  height: 59px;
+  background-color: lightblue;
+  color: lightblue;
+  position: absolute;
+  top: 500px;
+}
+
+#yourmom {
+  background-color: #FF0000;
+  color: white;
+  font-size: 50px;
+  position: absolute;
+  top: 600px;
+  left: calc(50% - 205px);
+}
+
+#rule {
+  margin: 0px;
+  background-color: black;
+  top: 575px;
+  position: absolute;
+  width: 90%;
+  height: 1px;
+  left: 20px;
+}
+
+#Dipper img {
+  position: absolute;
+  right: 0px;
+  width: 390px;
+}
+
+#Clean {
+  position: absolute;
+  top: 80%;
+  font-size: 50px;
+  left: 20px;
+}
+
+#rule1 {
+  margin: 0px;
+  background-color: black;
+  top: 717px;
+  position: absolute;
+  width: 716px;
+  height: 1px;
+  left: 20px;
+}
+
+#rule2 {
+  margin: 0px;
+  background-color: black;
+  top: 738px;
+  position: absolute;
+  width: 1px;
+  height: 186px;
+  left: 340px;
+}
+
+#Sleep {
+  position: absolute;
+  top: 80%;
+  font-size: 50px;
+  left: 360px;
+}
