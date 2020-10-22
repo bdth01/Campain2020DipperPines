@@ -1,0 +1,28 @@
+#Fines {
+  left: 50px;
+}
+
+#Sleep {
+  top: 800px;
+}
+
+#clown {
+  position: absolute;
+  right: 50px;
+  top: 150px;
+  font-size: 300px;
+}
+
+#Meme {
+  position: absolute;
+  left: 700px;
+  top: -125px;
+  height: 200px;
+  width: 200px;
+}
+
+#VoteDipper {
+  position: absolute;
+  top: 350px;
+  cursor: pointer;
+}
